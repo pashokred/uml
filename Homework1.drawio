@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-14T15:57:20.130Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="iBE4ranV0XlIDasteatT" version="13.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-14T16:13:14.386Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="xrzlB0TSahC7EpVzTaL3" version="13.6.9" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1125" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,8 +13,8 @@
         <mxCell id="68lFuTOirknGhlbdTPyb-2" value="&lt;span style=&quot;color: rgb(60 , 64 , 67) ; font-family: &amp;#34;roboto&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 14px ; letter-spacing: 0.2px&quot;&gt;Use-case-діаграма для адміністратора сервісу придбання квитків в кінотеатр.&lt;br/&gt;&lt;br/&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="149" y="10" width="530" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="68lFuTOirknGhlbdTPyb-7" value="Відредагувати сеанси" style="shape=ellipse;html=1;strokeWidth=4;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;shadow=0;sketch=0;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="520" y="610" width="120" height="60" as="geometry" />
+        <mxCell id="68lFuTOirknGhlbdTPyb-7" value="Відредагувати фільми" style="shape=ellipse;html=1;strokeWidth=4;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;shadow=0;sketch=0;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="530" y="600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="68lFuTOirknGhlbdTPyb-10" value="Відредагувати інформацію про кінотеатр" style="shape=ellipse;html=1;strokeWidth=4;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;shadow=0;sketch=0;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="180" y="240" width="150" height="90" as="geometry" />
@@ -172,7 +172,7 @@
             <mxPoint x="450" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="68lFuTOirknGhlbdTPyb-69" value="&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;span style=&quot;font-weight: 400&quot;&gt;Змінити/Додати/Видалити&lt;/span&gt;&amp;nbsp;інформацію&lt;/font&gt;" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;shadow=0;sketch=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="68lFuTOirknGhlbdTPyb-69" value="&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;span style=&quot;font-weight: 400&quot;&gt;Змінити/Додати/Видалити&lt;/span&gt;&amp;nbsp;інформацію&lt;/font&gt;" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;shadow=0;sketch=0;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="40" y="620" width="131" height="70" as="geometry" />
         </mxCell>
         <mxCell id="68lFuTOirknGhlbdTPyb-70" value="&lt;span style=&quot;font-size: 11px ; font-weight: 400&quot;&gt;Змінити/Додати/Видалити &lt;/span&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;купони на знижку&lt;/span&gt;" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;shadow=0;sketch=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -214,8 +214,8 @@
             <mxPoint x="221" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="68lFuTOirknGhlbdTPyb-79" value="&lt;span style=&quot;font-size: 11px ; font-weight: 400&quot;&gt;Змінити/Додати/Видалити &lt;/span&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;сеанс&lt;/span&gt;" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;shadow=0;sketch=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="340" y="660" width="120" height="60" as="geometry" />
+        <mxCell id="68lFuTOirknGhlbdTPyb-79" value="&lt;span style=&quot;font-size: 11px ; font-weight: 400&quot;&gt;Змінити/Додати/Видалити &lt;/span&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;фільм&lt;/span&gt;" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;shadow=0;sketch=0;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="365" y="660" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="68lFuTOirknGhlbdTPyb-81" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;startArrow=open;endArrow=none;startSize=12;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="68lFuTOirknGhlbdTPyb-7" target="68lFuTOirknGhlbdTPyb-79">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -223,8 +223,50 @@
             <mxPoint x="530" y="690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="68lFuTOirknGhlbdTPyb-82" value="Відредагувати опис сеансу" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;shadow=0;sketch=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="240" y="750" width="120" height="60" as="geometry" />
+        <mxCell id="68lFuTOirknGhlbdTPyb-84" value="&lt;span style=&quot;font-size: 11px ; font-weight: 400&quot;&gt;Змінити/Додати/Видалити &lt;/span&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;сеанс&lt;/span&gt;" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;shadow=0;sketch=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="370" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="68lFuTOirknGhlbdTPyb-85" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;startArrow=open;endArrow=none;startSize=12;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="68lFuTOirknGhlbdTPyb-79" target="68lFuTOirknGhlbdTPyb-84">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="320" y="700" as="sourcePoint" />
+            <mxPoint x="480" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="68lFuTOirknGhlbdTPyb-86" value="&lt;span style=&quot;font-size: 11px ; font-weight: 400&quot;&gt;Змінити/Додати/Видалити &lt;/span&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;інформацію про фільм&lt;/span&gt;" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;shadow=0;sketch=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="171" y="730" width="129" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="68lFuTOirknGhlbdTPyb-87" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;startArrow=open;endArrow=none;startSize=12;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="68lFuTOirknGhlbdTPyb-79" target="68lFuTOirknGhlbdTPyb-86">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="320" y="680" as="sourcePoint" />
+            <mxPoint x="480" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="68lFuTOirknGhlbdTPyb-88" value="&lt;span style=&quot;font-size: 11px ; font-weight: 400&quot;&gt;Змінити/Додати/Видалити &lt;/span&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;інформацію про зал&lt;/span&gt;" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;shadow=0;sketch=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="510" y="875" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="68lFuTOirknGhlbdTPyb-89" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;startArrow=open;endArrow=none;startSize=12;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="68lFuTOirknGhlbdTPyb-84" target="68lFuTOirknGhlbdTPyb-88">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="320" y="880" as="sourcePoint" />
+            <mxPoint x="480" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="68lFuTOirknGhlbdTPyb-93" value="ВІдредагувати інформацію про ціну" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;shadow=0;sketch=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="260" y="900" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="68lFuTOirknGhlbdTPyb-94" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;startArrow=open;endArrow=none;startSize=12;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="68lFuTOirknGhlbdTPyb-84" target="68lFuTOirknGhlbdTPyb-93">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="130" y="950" as="sourcePoint" />
+            <mxPoint x="290" y="950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="68lFuTOirknGhlbdTPyb-96" value="" style="endArrow=none;dashed=1;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="68lFuTOirknGhlbdTPyb-88" target="68lFuTOirknGhlbdTPyb-97">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="604.7164068711952" y="803.7867965644025" as="sourcePoint" />
+            <mxPoint x="609.0000000000002" y="790" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="68lFuTOirknGhlbdTPyb-97" value="Перевірити чи вільний зал" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;shadow=0;sketch=0;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="600" y="730" width="100" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
